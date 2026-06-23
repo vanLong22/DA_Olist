@@ -1,0 +1,28 @@
+Month,Action,Metric,Actual_Value,Target_Value
+26/01/01,M? r?ng danh m?c,Avg Categories (Other),6.85,6.85
+26/02/01,M? r?ng danh m?c,Avg Categories (Other),7.05,7.2
+26/03/01,M? r?ng danh m?c,Avg Categories (Other),7.3,7.54
+26/04/01,M? r?ng danh m?c,Avg Categories (Other),7.55,7.88
+26/05/01,M? r?ng danh m?c,Avg Categories (Other),7.85,8.22
+26/06/01,M? r?ng danh m?c,Avg Categories (Other),8.1,8.22
+26/01/01,M? r?ng danh m?c,Avg Order Count (Other),14.15,14.15
+26/02/01,M? r?ng danh m?c,Avg Order Count (Other),14.6,14.86
+26/03/01,M? r?ng danh m?c,Avg Order Count (Other),15.1,15.57
+26/04/01,M? r?ng danh m?c,Avg Order Count (Other),15.55,16.27
+26/05/01,M? r?ng danh m?c,Avg Order Count (Other),16,16.27
+26/06/01,M? r?ng danh m?c,Avg Order Count (Other),16.3,16.27
+26/01/01,Duy trì ho?t ??ng,Avg Recency Days (Other),187.9,187.9
+26/02/01,Duy trì ho?t ??ng,Avg Recency Days (Other),178.5,175.1
+26/03/01,Duy trì ho?t ??ng,Avg Recency Days (Other),168,164.41
+26/01/01,V?n hành SP,Avg Delivery Days (Other bang),15.01,15.01
+26/02/01,V?n hành SP,Avg Delivery Days (Other bang),14.4,14.39
+26/03/01,V?n hành SP,Avg Delivery Days (Other bang),13.85,13.78
+26/04/01,V?n hành SP,Avg Delivery Days (Other bang),13.3,13.16
+26/05/01,V?n hành SP,Avg Delivery Days (Other bang),12.75,12.55
+26/06/01,V?n hành SP,Avg Delivery Days (Other bang),12.2,12.93
+26/01/01,V?n hành SP,Late Shipping % (Other bang),10.23,10.23
+26/02/01,V?n hành SP,Late Shipping % (Other bang),9.95,9.88
+26/03/01,V?n hành SP,Late Shipping % (Other bang),9.65,9.53
+26/04/01,V?n hành SP,Late Shipping % (Other bang),9.4,9.17
+26/05/01,V?n hành SP,Late Shipping % (Other bang),9.1,8.82
+26/06/01,V?n hành SP,Late Shipping % (Other bang),8.85,8.47
