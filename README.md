@@ -40,7 +40,7 @@ Nghiên cứu tiến hành bóc tách sâu các chỉ số vận hành và phân
     *   *KPI & Tác động kỳ vọng:* Thu hẹp từ **20% đến 30%** khoảng cách về thời gian giao hàng và tỷ lệ giao trễ giữa São Paulo với các bang còn lại, phân bổ lại bản đồ doanh thu bền vững hơn.
 
 ## 6. Dashboard
-*    **[Xem Dashboard trực tuyến](https://app.powerbi.com/links/Tnx_b9SZHw?ctid=e94fbe89-41e0-4857-b292-cfd8b9e613f0&pbi_source=linkShare)** 
+*    **[Xem Dashboard trực tuyến](https://app.powerbi.com/links/5UAXI156me?ctid=e94fbe89-41e0-4857-b292-cfd8b9e613f0&pbi_source=linkShare&bookmarkGuid=fe5b6cb0-6ae0-4103-a384-42832de47772)** 
 
 ## 7. Cấu trúc Thư mục Dự án (Project Structure)
 ```text
