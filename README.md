@@ -65,6 +65,6 @@ Nghiên cứu tiến hành bóc tách sâu các chỉ số vận hành và phân
 ├── notebooks/
 │   ├── data_cleaning.ipynb          # Quy trình chuẩn hóa, xử lý dữ liệu thiếu và outlier
 │   └── EDA.ipynb                    # Phân tích khám phá, tìm nguyên nhân, kiểm định thống kê 
-├── BaoCao.pbix            
+├── Dashboard_Olist.pbix            
 └── BaoCao.docx
 └── Join.sql                         # Quy trình join các bảng để lấy dữ liệu cần thiết cho bài toán đang phân tích
